@@ -4,7 +4,9 @@
     will how you center it inside its parent container.
 
     See: http://bluerobot.com/web/css/center1.html
+    
+    Don't change the container width.
   */
   margin: 0 auto;  
-  width: 800px;
+  width: 720px;
 }
