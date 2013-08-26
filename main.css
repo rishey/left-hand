@@ -1,4 +1,5 @@
-.container {
+.content {
+  float:right;
   /*
     If you have a block-level element of a certain width, margin: 0 auto;
     will how you center it inside its parent container.
@@ -9,4 +10,21 @@
   */
   margin: 0 auto;  
   width: 720px;
+}
+
+.sidebar {
+  float:left;
+  margin: 0 auto;  
+  padding:0;
+}
+
+
+.footer{
+  float:right;
+  margin: 0 auto;  
+  width: 720px;
+}
+
+.header{
+  margin:100;
 }
